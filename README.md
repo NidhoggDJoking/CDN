@@ -6,7 +6,7 @@
 
 
 
-##### eg.
+### eg.
 
 #### jsDelivr路径写法： `https://cdn.jsdelivr.net/gh/user/repo@version/file`
 
@@ -17,6 +17,6 @@
 
 
 
-- ### 使用github链接有明显有的加载延迟
+- ##### 使用github链接有明显有的加载延迟
 
-- ### 而通过jsDelivr引用资源达到秒开无延迟
+- ##### 而通过jsDelivr引用资源达到秒开无延迟
