@@ -1,9 +1,9 @@
 # CDN
 
-### Github + jsDelivr
+## Github + jsDelivr
 
-  
 
+> ### cdn 优化的代码文件需压缩从而达到最佳效果
 
 
 ### eg.
@@ -20,3 +20,4 @@
 - ##### 使用github链接有明显有的加载延迟
 
 - ##### 而通过jsDelivr引用资源达到秒开无延迟
+
