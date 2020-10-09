@@ -26,7 +26,7 @@
 
 #### `1.1`分支控制`1.1`版本   
 
-＜/br＞
+</br>
 
 #### `https://www.jsdelivr.com/package/gh/nidhoggdjoking/CDN`   
 
