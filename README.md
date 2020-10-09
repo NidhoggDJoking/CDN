@@ -26,3 +26,19 @@
 ####  `master` 分支控制`1.0`版本
 
 #### `1.1`分支控制`1.1`版本
+
+
+
+#### `https://www.jsdelivr.com/package/gh/nidhoggdjoking/CDN`
+
+
+
+### 标签删除
+
+```
+git tag
+
+git tag -d 1.1
+
+git push origin --delete 1.1
+```
