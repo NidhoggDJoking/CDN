@@ -19,17 +19,17 @@
 
 - ##### 使用github链接有明显有的加载延迟
 
-- ##### 而通过jsDelivr引用资源达到秒开无延迟
+- ##### 而通过jsDelivr引用资源达到秒开无延迟    
 
 
 
 ####  `master` 分支控制`1.0`版本
 
-#### `1.1`分支控制`1.1`版本
+#### `1.1`分支控制`1.1`版本   
 
 
 
-#### `https://www.jsdelivr.com/package/gh/nidhoggdjoking/CDN`
+#### `https://www.jsdelivr.com/package/gh/nidhoggdjoking/CDN`   
 
 
 
