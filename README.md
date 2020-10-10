@@ -32,6 +32,8 @@
 
 #### `1.1`分支控制`1.1`版本   
 
+每次文件替换需要重新发布版本
+
 </br>
 
 #### [jsDelivr位置](https://www.jsdelivr.com/package/gh/nidhoggdjoking/CDN)  
