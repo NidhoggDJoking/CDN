@@ -2,9 +2,11 @@
 
 ## Github + jsDelivr
 
+[![](https://data.jsdelivr.com/v1/package/gh/nidhoggdjoking/CDN/badge)](https://www.jsdelivr.com/package/gh/nidhoggdjoking/CDN)
 
 > ### cdn 优化的代码文件需压缩从而达到最佳效果	  
 
+</br>
 
 ### eg.
 
