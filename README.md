@@ -34,7 +34,7 @@
 
 </br>
 
-#### [](https://www.jsdelivr.com/package/gh/nidhoggdjoking/CDN)  
+#### [jsDelivr位置](https://www.jsdelivr.com/package/gh/nidhoggdjoking/CDN)  
 
 </br>
 
