@@ -33,6 +33,8 @@ https://cdn.jsdelivr.net/gh/nidhoggdjoking/CDN@1.0/img/Egoist.jpg
 
 4. #### cdn 优化的代码文件需压缩从而达到最佳效果
 
+5. #### 已发布对应的标签无法删除，需删除发布信息
+
 </br>
 
 #### [👉jsDelivr位置](https://www.jsdelivr.com/package/gh/nidhoggdjoking/CDN)  
