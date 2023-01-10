@@ -1,4 +1,4 @@
-## Github + jsDelivr
+## Github & jsDelivr
 
 [![](https://data.jsdelivr.com/v1/package/gh/nidhoggdjoking/CDN/badge)](https://www.jsdelivr.com/package/gh/nidhoggdjoking/CDN)
 
