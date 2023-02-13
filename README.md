@@ -1,8 +1,16 @@
-## Github & jsDelivr
+<p align="center">
+    <img width="270" src="https://cdn.jsdelivr.net/gh/nidhoggdjoking/CDN@2.4/img/bjm2.png" alt="logo">
+</p>
+
+
+<h1 align="center">Github & jsDelivr</h1>
+
 
 [![](https://data.jsdelivr.com/v1/package/gh/nidhoggdjoking/CDN/badge)](https://www.jsdelivr.com/package/gh/nidhoggdjoking/CDN)
 
-#### jsDelivr is the only public CDN with a valid ICP license issued by the Chinese government, and hundreds of locations directly in Mainland China.
+### [👉jsDelivr位置](https://www.jsdelivr.com/package/gh/nidhoggdjoking/CDN)  
+
+### jsDelivr is the only public CDN with a valid ICP license issued by the Chinese government, and hundreds of locations directly in Mainland China.
 
  
 - ### jsDelivr路径写法：
@@ -24,7 +32,7 @@ https://raw.githubusercontent.com/NidhoggDJoking/CDN/master/img/Egoist.jpg
 https://cdn.jsdelivr.net/gh/nidhoggdjoking/CDN@1.0/img/Egoist.jpg
 ```
 
-```
+
 1.  使用github链接有明显有的加载延迟
 
 2.  而通过jsDelivr引用资源达到秒开无延迟
@@ -37,9 +45,8 @@ https://cdn.jsdelivr.net/gh/nidhoggdjoking/CDN@1.0/img/Egoist.jpg
 
 6.  删除发布后jsDelivr对应版本也会直接删除
 
-```
 
-#### [👉jsDelivr位置](https://www.jsdelivr.com/package/gh/nidhoggdjoking/CDN)  
+
 
 
 
